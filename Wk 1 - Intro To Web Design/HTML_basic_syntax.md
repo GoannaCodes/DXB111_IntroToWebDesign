@@ -1,4 +1,4 @@
-HTML:
+# HTML:
 -`<h1>, <h2>` identify headings
 - `<p> `identifies paragraphs
 - `<ul> `are unordered lists (bullets), `<ol> `are ordered lists (numberical)
@@ -6,7 +6,7 @@ HTML:
 - `<a>` identify links as anchors.
   - anchors have url using href `<a href="https://www.google.com.au">`
 
-CSS:
+# CSS:
 - selectors denote the elements that will be styled
 - properties of an element can be changed by specifying a value
   - i.e. `h1 { color: red }` changes font color of `<h1>` to red
